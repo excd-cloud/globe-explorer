@@ -1,6 +1,13 @@
 import colors from 'vuetify/es5/util/colors'
 
 export default {
+  vue: {
+    config: {
+      silent: false,
+      devtools: true,
+      productionTip: true
+    }
+  }
   mode: 'universal',
   /*
    ** Headers of the page
