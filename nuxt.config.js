@@ -7,7 +7,7 @@ export default {
       devtools: true,
       productionTip: true
     }
-  }
+  },
   mode: 'universal',
   /*
    ** Headers of the page
