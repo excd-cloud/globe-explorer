@@ -1,9 +1,22 @@
-# Welcome to globe-explorer 👋
+# globe-explorer
 
-## Show your support
+> for THREE.js with Firebase Project
 
-Give a ⭐️ if this project helped you!
+## Build Setup
 
+```bash
+# install dependencies
+$ yarn install
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+# serve with hot reload at localhost:3000
+$ yarn dev
+
+# build for production and launch server
+$ yarn build
+$ yarn start
+
+# generate static project
+$ yarn generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
